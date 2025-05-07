@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Kapture 2025-05-06 at 21.50.40.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<(https://github.com/Chance03-git/Flixster-app/blob/master/Kapture%202025-05-06%20at%2023.15.04.gif) />
 
 GIF created with **Kap**
 
